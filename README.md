@@ -1,1 +1,2 @@
 
+Sample Static Website
