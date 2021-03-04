@@ -1,2 +1,2 @@
 
-Sample Static Website
+Sample Static Website with HTML, CSS and Javascript
